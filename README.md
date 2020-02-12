@@ -1,2 +1,2 @@
-# NeverLAN-CTF-2020
+# NeverLAN CTF 2020
 CTF Writeups
